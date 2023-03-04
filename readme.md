@@ -12,7 +12,6 @@
 
 
 ---
-
 > Email [shadylhawary@gmail.com](https://mailto:shadylhawary@gmail.com/) &nbsp;&middot;&nbsp;
 > GitHub [@Shadylhawary](https://github.com/Shadylhawary) &nbsp;&middot;&nbsp;
 > LinkedIn [@Shadylhawary](https://www.linkedin.com/in/shadylhawary/)
@@ -20,9 +19,13 @@
 ---
 <h2 align="center"> Previous Projects </h2>
 
-## **MOST3MALL[Beta]** (Egypt Used Cars' Market Analysis)
-  
-![gif1](img/gif1.gif)
+## **I-MOST3MALL[Beta]** (Egypt Used Cars' Market Analysis)
+
+<p align="center">
+  <img src="img/gif1.gif">
+</p>
+
+
 - **Project Overview**: **MOST3MALL** is an open-free website based interactive dashboard, which enables a deep understanding of the **Egyptian Used Car Market.** NOW, the user who’s willing to sell/buy a used car is going to visit my website to see how the trend (deprecation factor) goes for each (Car Make, Car Model, Car Year) to decide at which point (Year/Kilometrage) to take an action.
 - **Example**: Suppose that a Company X wants to buy used cars for their Sales Engineers, these cars will be purchased as an asset for the company so that they do not need to lose their money over time due to the depreciation value according to the market.
 
@@ -32,15 +35,21 @@
 
     By entering the desired car parameters (Car Make, Car Model, Car Year” Optional”), the website Instantly generates two regression models describing **Depreciation X Kilometrage** and **Depreciation X Time**.
 
-![Figure 1](img/fig1.png)
+<p align="center">
+  <img src="img/fig1.png">
+</p>
 
 therefore, we found that “Daewoo Nubira “is the best option for the job specification, as we analyzed that the price of the car does not depreciate by kilometrage, and it has a stable price as we can buy a used car with 50,000 Kilometrage and after a working period we can sell it with approximate same price. That is a great deal rather than “Nissan Sunny”.
 
-![Figure 2](img/fig2.png)
+<p align="center">
+  <img src="img/fig2.png">
+</p>
 
 Finally, there are more interesting features and visualizations are going to be launched in the upcoming updates as I’m working on implementation of a ML algorithm to estimate the used car value(price) & Mobile app view to make it easier for the mobile users.
 
-![Figure 3](img/fig3.png)
+<p align="center">
+  <img src="img/fig3.png">
+</p>
 
 - **Project Details**: 
     - Data
@@ -79,13 +88,16 @@ Finally, there are more interesting features and visualizations are going to be 
 
         In the near future, I will containerize this app using docker to run the image file on AWS EC2 machine.
 
-## **MENC Price List** (Multi-System Engineering Company)[Freelance Project]
+## **II-MENC Price List** (Multi-System Engineering Company)[Freelance Project]
 
 MENC mission statement was to service the needs of the various technological, engineering organizations and companies through a professional conceptual service, supply, implementation, and support of fully integrated, multidisciplinary solutions covering the whole spectrum of needs of the users. To meet these requirements that work MENC aligned with the user personnel reaching an integral system adaptable to the needs and future anticipated requirements of the customer.
 
 - **Project Overview**: The client requested a simple executable(.exe) application with a GUI to allow the user (Company Employee) to query in the database (Price List) for a certain item, the user should specify the currency price (USD) manually and the profit in percentage to make the program evaluate the selling price in (EGP) after certain calculations.
-
-    ![gif2](img/gif2.gif)
+    
+    <p align="center">
+      <img src="img/gif2.gif">
+    </p>
+    
 
 - **Project Details**
 
@@ -106,8 +118,12 @@ MENC mission statement was to service the needs of the various technological, en
         
             Python → SQlite.
 
-## **Used Car Price Predictor** (Self Project)
-  ![Figure 4](img/fig4.png)
+## **III-Used Car Price Predictor** (Self Project)
+
+  <p align="center">
+    <img src="img/fig4.png">
+  </p>
+
   - **Project Overview**: An algorithm to predict the used cars market value to help both buyers and sellers to determine the price range of the car without knowing any background about the market. The magic happens by just entering the needed car parameters (Car Make – Car Model -Car Year – Car Kilometrage).
  - **Project Details**
    - Data
@@ -129,8 +145,11 @@ MENC mission statement was to service the needs of the various technological, en
                 Python → Sklearn, Sklearn.neighbors, SVM.
 
 
-## **The British University in Egypt Smart Parking System**
+## **IV-The British University in Egypt Smart Parking System**
   - **Project Overview**: Design & Implement a fully integrated Smart Parking System, this project is to use cheap IoT devices to monitor the parking lot, extract the license plate number, and update the database by the car location and parking time that can be accessed remotely. This way, all you need to do is to enter the car license plate numbers and obtain the parking fees & location instantly.
     
-    ![Figure 5](img/fig5.png)
+    <p align="center">
+      <img src="img/fig5.png">
+    </p>
+
 
