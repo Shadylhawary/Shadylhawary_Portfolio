@@ -1,11 +1,8 @@
 
-<h1 align="center">
-  <br>
-  <a href="http://156.195.215.112:5000/"><img src="https://raw.githubusercontent.com/Shadylhawary/Egypt-used-car-market-analysis/master/img/logo.png" alt="Egypt" width="200"></a>
-  <br>
-  Shady Mostafa El Hawary
-  <br>
-</h1>
+<div align="center">
+  <img  src="img/profilepic.jpg">
+</div>
+
 
 <h3 align="center">Electrical & Communication Engineer | Data Scientist | Project Manager
 </h3>
@@ -151,5 +148,45 @@ MENC mission statement was to service the needs of the various technological, en
     <p align="center">
       <img src="img/fig5.png">
     </p>
+
+  - *System Prototype*:
+  
+    <p align="center">
+      <img src="img/fig6.png">
+      <img src="img/fig7.png">
+    </p>
+
+
+  - *Project Details*:
+    - Embedded System Design
+      - System Flow
+      
+        As we know about the embedded systems  is composed of CPU that process specific task or function, and of course the systems scale as to the complexity of the (micro-controller) used. In our system we used complex and wide micro-controllers.
+        Raspberry Pi is one of the most best-selling computers in the world and used in a lot of applications with different fields.
+            <div align="center">
+              <img src="img/fig8.png">
+            </div>
+
+    - Image Processing System
+
+      The image processing work done with the help of the MATLAB simulation tools under the correlation methods to obtain the car nameplate.
+      <div align="center">
+        <img src="img/fig10.png">
+      </div>
+
+      <div align="center">
+        <img src="img/fig11.png">
+      </div>
+    - IoT System (Mobile Application)
+
+      The mobile application represents the end user side in our IoT system. I used the Andriod Platform for its ease and simplicity in development and deployment.
+
+      <div align="center">
+        <img src="img/fig9.png">
+      </div>
+
+
+
+      
 
 
